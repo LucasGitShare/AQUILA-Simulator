@@ -28,6 +28,7 @@ USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ----------------------------------------------------------------------------------
 
 This is a InGaAs/GaAs version of  AQUILA based on the work of Dr. Martin Rother  
+Thank Dr. Martin Rother for his permission and feedback.
 You are also find his work via http://www.rotherland.de/en/aquila.html
 
 The redistributed version include strain effect to simulate symmetric InGaAs/GaAs quantum well. 
