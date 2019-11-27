@@ -39,3 +39,5 @@ could generate wrong result due to our symmetric code.
 If you want to use  InGaAs/GaAs  system,
 1. use  buildstructure_InGaAs instead of buildstructure
 2. specify barrier mole fraction number, such as  aquila_material.barrier=0.8
+  
+
